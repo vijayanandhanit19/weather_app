@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "0bdeee3a3f3c6043e069c0d8b745cc2f7d29bef2a8c2332c07c26b0a792d2088"
+build_start_time: [1693803831, 802224000]
+build_end_time: [1693803831, 841716000]
+inputs:
+  "/Users/vijayanandhanvadivel/development/projects/weather_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1693803817, 781524067]
+  "/Users/vijayanandhanvadivel/development/projects/weather_app/macos/Runner/AppDelegate.swift": !private [1686711962, 0]
+  "/Users/vijayanandhanvadivel/development/projects/weather_app/macos/Runner/MainFlutterWindow.swift": !private [1686711962, 0]
